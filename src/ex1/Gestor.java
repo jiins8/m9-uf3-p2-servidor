@@ -1,3 +1,5 @@
+package ex1;
+
 import java.io.*;
 import java.net.Socket;
 
